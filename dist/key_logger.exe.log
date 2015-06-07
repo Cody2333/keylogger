@@ -1,0 +1,4 @@
+Traceback (most recent call last):
+  File "pyHook\HookManager.pyc", line 351, in KeyboardSwitch
+  File "key_logger.py", line 86, in KeyStroke
+TypeError: Specified clipboard format is not available
